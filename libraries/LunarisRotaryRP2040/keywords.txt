@@ -1,0 +1,6 @@
+LunarisRotary	KEYWORD1
+
+service         KEYWORD2
+setPixelRGB	    KEYWORD2
+updatePixels	KEYWORD2
+getPixelCount	KEYWORD2

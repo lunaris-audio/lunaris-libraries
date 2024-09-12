@@ -1,0 +1,12 @@
+LunarisDisplay	KEYWORD1
+
+setWavePointer          KEYWORD2
+setWave                 KEYWORD2
+setupWave               KEYWORD2
+setupItemMenu           KEYWORD2
+setItemMenu             KEYWORD2
+setItemPointer          KEYWORD2
+setItemBoolSelector     KEYWORD2
+blank                   KEYWORD2
+waveMask                KEYWORD2
+waveMaskEnable          KEYWORD2
