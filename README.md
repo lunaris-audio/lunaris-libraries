@@ -1,6 +1,6 @@
 # lunaris-libraries
 
-Collection of libraries for audio amplifier projects with RP2040 micro-controller.
+Collection of libraries for audio amplifier projects with RP2040 micro-controller in ArduinoIDE.
 
 List of libraries:
 
